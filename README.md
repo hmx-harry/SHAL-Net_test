@@ -8,7 +8,7 @@ The official pytorch implementation of SHAL-Net: Degraded Structure and Hue Guid
 Authors: Heming Xu, Hanwen Zhang, Xintong Liu.
 
 ## Overview
-![img](img/network.jpg)
+![img](img/network.jpeg)
 
 [[**Paper**]]()
 [[**Code**]]()
